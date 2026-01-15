@@ -2,6 +2,9 @@
 
 <img width="808" height="398" alt="Image" src="https://github.com/user-attachments/assets/7e61db46-d330-4216-99b0-2d07287a5720" />
 
+## Expected Result
+
+<img width="808" height="512" alt="Image" src="https://github.com/user-attachments/assets/81b09780-d06e-4e52-ba60-ee49933b9fa3" />
 
 ## Getting Started
 
