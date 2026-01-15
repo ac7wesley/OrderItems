@@ -1,6 +1,6 @@
 ## UML Program
 
-<img width="945" height="523" alt="Image" src="https://github.com/user-attachments/assets/e5a63e1f-0c43-47bb-a867-d600b91f1bf4" />
+<img width="808" height="398" alt="Image" src="https://github.com/user-attachments/assets/7e61db46-d330-4216-99b0-2d07287a5720" />
 
 
 ## Getting Started
